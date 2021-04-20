@@ -1,6 +1,5 @@
 # Le Duel
 Projet de BPO - 1ère année d'IUT Informatique
----
 
 Le but de ce projet est de refaire en lagange Java le jeu **The Game - Le Duel**.
 
